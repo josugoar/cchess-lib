@@ -2,7 +2,7 @@
 
 > Play the classic two-player boardgame of chess
 
-<img src="assets/cchess-lib.svg" align="right">
+<img align="right" src="assets/cchess-lib.svg" width="250">
 
 **cchess-lib** is a fully featured chess library translated from the **gnome-chess** source code written in **vala** to **java**. It features a chess API as similar to **gnome-chess** as possible with some native workarounds over **vala** specific features.
 
