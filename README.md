@@ -14,4 +14,4 @@
 
 ## Credits
 
-- [gnome-chess](https://gitlab.gnome.org/GNOME/gnome-chess)
+* [gnome-chess](https://gitlab.gnome.org/GNOME/gnome-chess)
