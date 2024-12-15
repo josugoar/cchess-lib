@@ -1,3 +1,5 @@
+# cchess-lib
+
 <p align="center">
     <img src="assets/cchess-lib.png" alt="cchess-lib" width="640" height="320">
 </p>
@@ -10,6 +12,6 @@
 
 **cchess-lib** is successfully implemented at its best in **[cchess](https://github.com/CoronaCrew/cchess)**, a Swing/AWT Java GUI desktop application also inspired by the **gnome-chess** frontend.
 
-# Credits
+## Credits
 
 - [gnome-chess](https://gitlab.gnome.org/GNOME/gnome-chess)
